@@ -1,0 +1,6 @@
+Doheney:beginnerrightsleftslongboard
+San Onofre:beginnerrightsleftslongboard
+Trails:beginnerrightsleftsshortboardlongboard
+Middles:beginnerrightsshortboardlongboard
+Blackies:beginnerleftsshortboardlongboard
+T-Street:beginnerrightsleftsshortboardlongboard
